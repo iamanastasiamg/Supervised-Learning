@@ -1,2 +1,2 @@
 # Supervised Learning
-AI Data Factory@AUEB - Supervised Learning
+The module focuses on the fundamental principles and methods of supervised learning. Participants will learn how to train models using labeled data, covering techniques such as linear and logistic regression, decision trees, k-NN, SVM, and more. The module emphasizes practical application, with lab exercises and projects that allow students to develop and evaluate models on real-world data.
